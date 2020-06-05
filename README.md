@@ -1,7 +1,11 @@
 # visual-ethereum
+
+
 This is a small project where we will be exploring the balances of the top Ethereum wallets, by using Google's BigQuery, and basic Python Tools such as `datetime`, `pandas`, `matplotlib`, and `seaborn`.
 
-Also, the result of this project has been sent to dOrg as an activation proposal to join the Decentralized Automated Organization (D.A.O.) as a freelance member.
+Also, the result of this project has been sent to **[dOrg](https://dOrg.tech)** (which stands for **d**escentralized **Org**anization) as an activation proposal to join the Decentralized Automated Organization (D.A.O.) as a freelance member.
+
+![ethereum gif](https://thumbs.gfycat.com/HandyFaithfulAlaskanhusky-max-1mb.gif)
 
 **dOrg is a full-stack freelancer agency building and running on web3.**
 
